@@ -1,15 +1,4 @@
 
-
-Pular para o conteúdo
-Como usar o E-mail de IFTM com leitores de tela
-1 de 266
-notas.txt
-Caixa de entrada
-
-RYAN PEREIRA NERES
-08:40 (há 5 minutos)
-para NATÁLIA, mim
-
 # Atividade 4 — Do código-fonte ao executável
 # Preencha este arquivo durante a atividade.
 # ─────────────────────────────────────────────────────
