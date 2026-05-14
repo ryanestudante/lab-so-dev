@@ -6,8 +6,8 @@ Como usar o E-mail de IFTM com leitores de tela
 notas.txt
 Caixa de entrada
 
-LUIZ HENRIQUE SALGER SANTOS DE OLIVEIRA
-08:38 (há 3 minutos)
+RYAN PEREIRA NERES
+08:40 (há 5 minutos)
 para NATÁLIA, mim
 
 # Atividade 4 — Do código-fonte ao executável
